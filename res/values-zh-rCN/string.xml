@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">锁屏</string>
+    <string name="app_setting">锁屏设置</string>
+    <string name="permission_description">允许本程序锁屏。</string>
+    <string name="setting_title">权限设置</string>
+    <string name="button_enable">允许</string>
+    <string name="button_disable">禁止</string>
+    <string name="button_quit">退出</string>
+    <string name="msg_permission_enabled">锁屏权限: 允许</string>
+    <string name="msg_permission_disabled">锁屏权限: 禁止</string>
+    
+    
+</resources>
