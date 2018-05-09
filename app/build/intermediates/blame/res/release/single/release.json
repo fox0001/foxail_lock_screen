@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/opt/projects/foxail_lock_screen/app/build/intermediates/res/merged/release/drawable-hdpi_icon.png.flat",
+        "source": "/opt/projects/foxail_lock_screen/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/opt/projects/foxail_lock_screen/app/build/intermediates/res/merged/release/drawable-ldpi_icon.png.flat",
+        "source": "/opt/projects/foxail_lock_screen/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/opt/projects/foxail_lock_screen/app/build/intermediates/res/merged/release/xml_lock_screen.xml.flat",
+        "source": "/opt/projects/foxail_lock_screen/app/src/main/res/xml/lock_screen.xml"
+    },
+    {
+        "merged": "/opt/projects/foxail_lock_screen/app/build/intermediates/res/merged/release/drawable-mdpi_icon.png.flat",
+        "source": "/opt/projects/foxail_lock_screen/app/src/main/res/drawable-mdpi/icon.png"
+    }
+]

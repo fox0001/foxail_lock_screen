@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lock Screen</string>
+    <string name="app_setting">Lock Screen Setting</string>
+    <string name="permission_description">Allow this app to lock the screen.</string>
+    <string name="msg_permission_enabled">Lock Screen Permission: enabled</string>
+    <string name="msg_permission_disabled">Lock Screen Permission: disabled</string>
+    
+    
+</resources>

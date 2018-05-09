@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:3:7-46
+		INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml
+		INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:5:7-32
+		INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml
+		INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml
+		INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:6:7-37
+uses-permission#android.permission.INJECT_EVENTS
+ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:8:22-69
+application
+ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:10:5-29:19
+	android:label
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:10:48-80
+	android:icon
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:10:18-47
+	android:allowBackup
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:10:81-107
+activity#org.foxail.android.lockscreen.LockScreenActivity
+ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:11:9-19:20
+	android:label
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:12:13-45
+	android:excludeFromRecents
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:14:13-46
+	android:theme
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:13:13-59
+	android:name
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:11:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:17:27-74
+receiver#org.foxail.android.lockscreen.LockScreenReceiver
+ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:21:9-28:20
+	android:permission
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:22:17-74
+	android:description
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:22:75-127
+	android:name
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:21:19-52
+meta-data#android.app.device_admin
+ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:23:13-24:62
+	android:resource
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:24:24-59
+	android:name
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:23:24-63
+intent-filter#action:name:android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:25:13-27:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:26:17-82
+	android:name
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml:26:25-79
+uses-sdk
+INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml
+INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml
+INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml
+INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml
+		INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml
+		ADDED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml
+		INJECTED from /opt/projects/foxail_lock_screen/app/src/main/AndroidManifest.xml

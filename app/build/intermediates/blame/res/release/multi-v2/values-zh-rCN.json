@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/opt/projects/foxail_lock_screen/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "/opt/projects/foxail_lock_screen/app/src/main/res/values-zh-rCN/string.xml",
+                    "from": {
+                        "startLines": "2,3,6,5,4",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,95,260,200,140",
+                        "endColumns": "39,44,60,59,59",
+                        "endOffsets": "90,135,316,255,195"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,95,140,201,261",
+                        "endColumns": "39,44,60,59,59",
+                        "endOffsets": "90,135,196,256,316"
+                    }
+                }
+            ]
+        }
+    ]
+}

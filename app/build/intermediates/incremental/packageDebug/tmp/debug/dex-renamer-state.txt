@@ -1,0 +1,4 @@
+#Thu Apr 12 05:11:00 CST 2018
+base.0=/opt/projects/foxail_lock_screen/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
